@@ -1,0 +1,63 @@
+
+
+body{
+  margin: 0px;
+text-align: center;}
+  h1{line-height: 2;
+    font-size: 90px;
+    color: #66BFBF;
+    margin-top: 0px;
+    font-family: 'sacramento', cursive;
+    }
+    h2{
+      font-size: 50px;
+      color: #66BFBF;
+
+    }
+    h3{
+      color: grey;
+    }
+  }
+
+
+.top-container{
+  background-color: #c6fced;
+  position: relative;
+  padding: 100px;
+
+}
+.middle-container{
+
+}
+.pro{
+  text-decoration: underline;
+}
+.bottom-container{
+}
+
+  .bottom-cloud{
+    position: absolute;
+    left: 200px;
+  }
+  .top-cloud{
+    position: absolute;
+    right: 200px;
+    top: 0px;
+  }
+  .mountain{
+    bottom: 0px;
+  }
+  .pic1{
+    border-radius: 50%;
+  }
+  .skill-pic2{border-radius: 50%;
+
+  }
+  .skill-pic{
+    border-radius: 50%;
+  }
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;}
